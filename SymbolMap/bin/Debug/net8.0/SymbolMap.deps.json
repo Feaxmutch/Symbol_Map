@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SymbolMap/1.0.0": {
+        "runtime": {
+          "SymbolMap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SymbolMap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
